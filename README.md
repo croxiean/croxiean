@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ! My name is samet. I am a student at Information system engineering in Mugla Sitki Kocman Uniiversity.<br>Now ı am intersted in web Pentesting , developing , Cloud security&computing and python.  You can see <br>my repositories this account. 
+Hi ! My name is samet. I am a student at Information system engineering in Mugla Sitki Kocman Uniiversity.<br>Now ı am intersted in web Pentesting , developing , Cloud security&computing, System&network and python.  You can see <br>my repositories this account. 
 
 
 ## 🌐 Socials:
